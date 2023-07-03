@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agency/Agency.iml" filepath="$PROJECT_DIR$/Agency/Agency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookMods.iml" filepath="$PROJECT_DIR$/BookMods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Care/Care.iml" filepath="$PROJECT_DIR$/Care/Care.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Feeding/Feeding.iml" filepath="$PROJECT_DIR$/Feeding/Feeding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reservations/Reservations.iml" filepath="$PROJECT_DIR$/Reservations/Reservations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Staff/Staff.iml" filepath="$PROJECT_DIR$/Staff/Staff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Talks/Talks.iml" filepath="$PROJECT_DIR$/Talks/Talks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToursAPI/ToursAPI.iml" filepath="$PROJECT_DIR$/ToursAPI/ToursAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/Visitor/Visitor.iml" />
+    </modules>
+  </component>
+</project>
